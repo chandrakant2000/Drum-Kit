@@ -2,4 +2,4 @@
 
 Click the image or press the key from key-board to hear different drum sounds
 
-<a href="https://chandrakant2000.github.io/Sorting-Visualizer"> See it in action </a> 
+<a href="https://chandrakant2000.github.io/Drum-Kit/"> See it in action </a> 
